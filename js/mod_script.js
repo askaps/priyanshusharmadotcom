@@ -36,7 +36,7 @@ $(document).ready(function(){ //Start Ready Function
 	}
         
         animate_bg();
-        
+       
         
 /*
  ******** / Animate Background
